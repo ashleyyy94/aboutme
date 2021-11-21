@@ -6,6 +6,7 @@ import About from "./components/pages/About";
 import NFT from "./components/pages/NFT";
 
 function App() {
+
   return (
     <Router>
       <div>

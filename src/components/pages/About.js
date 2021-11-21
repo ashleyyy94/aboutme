@@ -218,6 +218,7 @@ function About() {
 							            <li class="list-inline-item"><span class="badge bg-light text-dark">Code Review</span></li>
 							            <li class="list-inline-item"><span class="badge bg-light text-dark">Git</span></li>
 							            <li class="list-inline-item"><span class="badge bg-light text-dark">Unit Testing</span></li>
+										<li class="list-inline-item"><span class="badge bg-light text-dark">Tableau</span></li>
 						            </ul>
 						        </div>
 						    </div>
@@ -249,7 +250,7 @@ function About() {
 						    <div class="resume-section-content">
 							    <ul class="list-unstyled">
 								    <li class="mb-1">Web Development</li>
-								    <li class="mb-1">Android</li>
+								    <li class="mb-1">Blockchain Technologies</li>
 									<li class="mb-1">Artificial Intelligence</li>
 									<li class="mb-1">PC Building</li>
 									<li class="mb-1">International Chess</li>
