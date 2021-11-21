@@ -48,19 +48,22 @@ function About() {
 										        <h3 class="resume-position-title font-weight-bold mb-1">Frontend Software Developer</h3>
 										        <div class="resume-company-name ml-auto">Jurong Town Corporation</div>
 										    </div>
-										    <div class="resume-position-time">May 2018 – Aug 2018</div>
+										    <div class="resume-position-time">May 2018 – Present</div>
 									    </div>
 									    <div class="resume-timeline-item-desc">
 										    <ul>
 											    <li>Added geospatial layers to ePlanner for the company’s internal use with their cluster officers.</li>
 											    <li>Used ReactJS for front-end development to display suitable map information with KPIs that can be seen at a glance, increasing the performance of land surveyors on the ground.</li>
+												<li>Used ReactJS to create a new Data Portal application to allow users to download datasets available in a Data Lake, including filtering and selection by attributes.</li>
+												<li>Conducted training to all JTC Officers on using Geospatial Information System tools.</li>
+												<li>Managed Tableau system on-premise, including server installation, operations, and handling user requirements.</li>
 										    </ul>
 										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
 										    <ul class="list-inline">
 											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">React</span></li>
 												<li class="list-inline-item"><span class="badge badge-primary badge-pill">Python</span></li>
 												<li class="list-inline-item"><span class="badge badge-primary badge-pill">ArGIS</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Webpack</span></li>
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Tableau</span></li>
 											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">HTML/CSS</span></li>
 											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">PostgresSQL</span></li>
 										    </ul>
@@ -102,7 +105,7 @@ function About() {
 										        <h3 class="resume-position-title font-weight-bold mb-1">Microsoft Student Partner</h3>
 										        <div class="resume-company-name ml-auto">Microsoft</div>
 										    </div>
-										    <div class="resume-position-time">May 2017 – Present</div>
+										    <div class="resume-position-time">May 2017 – May 2018</div>
 									    </div>
 									    <div class="resume-timeline-item-desc">
 											<ul>
