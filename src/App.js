@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./components/inc/Navbar";
 import Header from "./components/inc/Header";
-import {BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import {HashRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import NFT from "./components/pages/NFT";
