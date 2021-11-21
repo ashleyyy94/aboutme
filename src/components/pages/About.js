@@ -1,5 +1,5 @@
 import React from 'react';
-
+import AshleyPic from '../images/Ashley.png';
 function About() {
     return(
         <div>
@@ -7,7 +7,7 @@ function About() {
 	    <div class="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
 		    <header class="resume-header pt-4 pt-md-0">
 			    <div class="media flex-column flex-md-row">
-				    <img class="mr-3 img-fluid picture mx-auto" src="assets/images/Ashley.png" alt=""></img>
+				    <img class="mr-3 img-fluid picture mx-auto" src={AshleyPic} alt=""></img>
 				    <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
 					    <div class="primary-info">
 						    <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Ashley Ong</h1>
@@ -21,7 +21,7 @@ function About() {
 						    <ul class="resume-social list-unstyled">
 				                <li class="mb-3"><a href="https://www.linkedin.com/in/ashley-ong-2816a8105/"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/ashley-ong-2816a8105/</a></li>
 				                <li class="mb-3"><a href="https://github.com/ashleyyy94"><span class="fa-container text-center mr-2"><i class="fab fa-github-alt fa-fw"></i></span>github.com/ashleyyy94</a></li>
-				                <li><a href="https://ashleyong.xyz"><span class="fa-container text-center mr-2"><i class="fas fa-globe"></i></span>ashleyong.xyz</a></li>
+				                <li><a href="https://www.ashleyong.xyz"><span class="fa-container text-center mr-2"><i class="fas fa-globe"></i></span>www.ashleyong.xyz</a></li>
 						    </ul>
 					    </div>
 					    

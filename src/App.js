@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "./components/inc/Navbar";
 import Header from "./components/inc/Header";
 import {HashRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from "./components/pages/Home";
